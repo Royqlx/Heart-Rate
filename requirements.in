@@ -1,0 +1,17 @@
+numpy
+opencv-python
+seaborn
+matplotlib
+pandas
+scipy
+gdown
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Notebook Environment
+jupyter
+ipykernel
+tqdm
